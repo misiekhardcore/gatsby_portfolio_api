@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_description_job_descritions",
+  "info": {
+    "name": "job_descrition",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
