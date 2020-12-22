@@ -11,11 +11,19 @@
     "draftAndPublish": true
   },
   "attributes": {
+<<<<<<< HEAD
     "company": {
       "type": "string",
       "required": true
     },
     "position": {
+=======
+    "position": {
+      "type": "string",
+      "required": true
+    },
+    "company": {
+>>>>>>> f11fc181b363f039dfff8aa4358b83c722302ae1
       "type": "string",
       "required": true
     },
@@ -26,7 +34,11 @@
     "description": {
       "type": "component",
       "repeatable": true,
+<<<<<<< HEAD
       "component": "description.job-description",
+=======
+      "component": "description.job-descrition",
+>>>>>>> f11fc181b363f039dfff8aa4358b83c722302ae1
       "required": true
     }
   }
